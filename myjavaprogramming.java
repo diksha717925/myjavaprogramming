@@ -1,0 +1,19 @@
+package Myjava;
+
+public class Types {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		        System.out.println("There are 7 types of Operators in Java");
+		        System.out.println("1. Arithmetic Operator");
+		        System.out.println("2. Relational Operator");
+		        System.out.println("3. Logical Operator");
+		        System.out.println("4. Unary Operator");
+		        System.out.println("5. Bitwise Operator");
+		        System.out.println("6. Assignment Operator");
+		        System.out.println("7. Ternary Operator");
+		    }
+		
+
+}
